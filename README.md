@@ -1,4 +1,4 @@
-# Altium-Libraries-for-JLCPCB-Basic-Resistors-and-Capacitors
+# Altium Libraries for JLCPCB Basic Resistors and Capacitors
 
 These are Altium database libraries for JLCPCB current “Basic” SMT resistors and capacitors.
 There are separate libraries for:
