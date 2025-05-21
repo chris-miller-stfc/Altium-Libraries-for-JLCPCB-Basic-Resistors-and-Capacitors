@@ -18,6 +18,7 @@ Library_Ref = Comment;
 Footprint_Ref = Comment;
 Footprint_Path = Comment;
 Library_Path = Comment;
+Dielectric = Comment;
 
 for(i=1:size(Match_Groups,2))
     Manufacturer_T = strtrim(Match_Groups{i}{4});
@@ -53,6 +54,13 @@ for(i=1:size(Match_Groups,2))
         Value_S = NaN;
         Value_T = '';
     end
+        TempRegex = regexp(Value_String,"([XCN][0-9P][A-Z0])",'tokens','dotexceptnewline');
+    if(~isempty(TempRegex))
+        TempRegex = TempRegex{1};
+        Dielectric_T = TempRegex{1};
+    else
+        Dielectric_T = '';
+    end
 
 
     Comment(i) = string(['CAP ',Value_S]);
@@ -62,6 +70,7 @@ for(i=1:size(Match_Groups,2))
     Value_Numericd(i) = str2double(Value_T);
     Tolerance(i) = string(Tolerance_T);
     Voltage(i) = string(Voltage_T);
+    Dielectric(i) = string(Dielectric_T);
     Manufacturer_1(i) = string(Manufacturer_T);
     Manufacturer_Part_Number_1(i) = string(ManufacturerPartNumber_T);
     Supplier_1(i) = string(Supplier_T);
@@ -87,8 +96,9 @@ Library_Ref = Library_Ref(I);
 Footprint_Ref = Footprint_Ref(I);
 Footprint_Path = Footprint_Path(I);
 Library_Path = Library_Path(I);
+Dielectric = Dielectric(I);
 
-DataBase = table(Comment,Description,Value_Numeric,Value,Tolerance,Voltage,Manufacturer_1,Manufacturer_Part_Number_1,Supplier_1,Supplier_Part_Number_1,Library_Ref,Footprint_Ref,Footprint_Path,Library_Path);
+DataBase = table(Comment,Description,Value_Numeric,Value,Tolerance,Dielectric,Voltage,Manufacturer_1,Manufacturer_Part_Number_1,Supplier_1,Supplier_Part_Number_1,Library_Ref,Footprint_Ref,Footprint_Path,Library_Path);
 for(i=1:length(DataBase.Properties.VariableNames))
     DataBase.Properties.VariableNames{i} = strrep(DataBase.Properties.VariableNames{i},'_',' ');
 end
