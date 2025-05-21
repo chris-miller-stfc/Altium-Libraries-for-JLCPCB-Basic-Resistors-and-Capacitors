@@ -1,0 +1,6 @@
+SMT Capacitor Step files from:
+https://grabcad.com/library/mlcc-surface-mount-capacitors-1
+
+SMT Resistors Step files from:
+https://grabcad.com/library/surface-mount-resistors-1
+

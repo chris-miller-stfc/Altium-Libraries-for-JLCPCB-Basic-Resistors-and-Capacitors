@@ -1,0 +1,382 @@
+
+1206B103K500NT
+C1846
+Basic 
+
+50V 10nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+436835
+	
+	
+1+ $0.0113
+4000+ $0.0063
+Hide
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.02
+placeholder-image
+placeholder-image
+placeholder-image
+placeholder-image
+placeholder-image
+Add To List
+Part Info
+Attributes
+Manufacturer
+FH (Guangdong Fenghua Advanced Tech)
+Copy
+MFR.Part #
+1206B103K500NT
+Copy
+JLCPCB Part #
+C1846
+Copy
+Package
+1206
+Copy
+Description
+50V 10nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Copy
+EasyEDA Libraries
+PCB Footprint or Symbol
+Datasheet
+Download
+Source
+JLCPCB
+Assembly Type
+SMT Assembly
+PCBA Type
+Economic and Standard
+MSL Level
+MSL 1
+Note: The purchased components are stored in your JLCPCB parts library for future PCBA orders only, and cannot be shipped separately.
+People are selling their idle parts:
+Note: The idle parts need to be purchased before they can be used for PCBA ordering
+1206B103K500NT
+	
+433**10A
+	
+1+ $0.0108
+200+ $0.0108
+	
+637
+	
+	
+1206B103K500NT
+	
+32**6Y
+	
+1+ $0.0117
+200+ $0.0117
+	
+480
+	
+	
+1206B103K500NT
+	
+55***6A
+	
+1+ $0.0175
+200+ $0.0174
+	
+50
+	
+	
+1206B103K500NT
+	
+438**51A
+	
+1+ $0.0197
+200+ $0.0197
+	
+20
+	
+	
+1206B103K500NT
+	
+522**02A
+	
+1+ $0.0163
+	
+15
+	
+	
+1206B103K500NT
+	
+333**66A
+	
+1+ $0.0190
+	
+2
+	
+	
+1206B103K500NT
+	
+856**17A
+	
+1+ $0.0132
+	
+1
+	
+	
+Qty
+Unit Price
+1+ $0.0113
+200+ $0.0089
+600+ $0.0078
+4000+ $0.0063
+8000+ $0.0060
+20000+ $0.0058
+	
+CL31B105KBHNNNE
+C1848
+Basic
+	
+	
+50V 1uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+182830
+	
+	
+1+ $0.0228
+2000+ $0.0140
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.03
+	
+1206B102K202NT
+C9196
+Basic
+	
+	
+2kV 1nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+2927417
+	
+	
+1+ $0.0082
+3000+ $0.0047
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 3000
+Total: $0.01
+	
+CL31A226KAHNNNE
+C12891
+Basic
+	
+	
+25V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+744894
+	
+	
+1+ $0.0503
+2000+ $0.0323
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.06
+	
+CL31A106KBHNNNE
+C13585
+Basic
+	
+	
+50V 10uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+2713257
+	
+	
+1+ $0.0336
+2000+ $0.0204
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.04
+	
+CL31A107MQHNNNE
+C15008
+Basic
+	
+	
+6.3V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+1009254
+	
+	
+1+ $0.0732
+2000+ $0.0455
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.08
+	
+CL31B104KBCNNNC
+C24497
+Basic
+	
+	
+50V 100nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+1513782
+	
+	
+1+ $0.0142
+4000+ $0.0084
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.02
+	
+1206B475K500NT
+C29823
+Basic
+	
+	
+50V 4.7uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+370367
+	
+	
+1+ $0.0294
+2000+ $0.0180
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.03
+	
+CL31B225KBHNNNE
+C50254
+Basic
+	
+	
+50V 2.2uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+490288
+	
+	
+1+ $0.0303
+2000+ $0.0183
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.04
+	
+CL31A476MPHNNNE
+C96123
+Basic
+	
+	
+10V 47uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+560942
+	
+	
+1+ $0.0693
+2000+ $0.0417
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.07 

@@ -1,0 +1,982 @@
+
+0402WGF2001TCE
+C4109
+Basic 
+
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+4242019
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Hide
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+Add To List
+Part Info
+Attributes
+Manufacturer
+UNI-ROYAL(Uniroyal Elec)
+Copy
+MFR.Part #
+0402WGF2001TCE
+Copy
+JLCPCB Part #
+C4109
+Copy
+Package
+0402
+Copy
+Description
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2kΩ 0402 Chip Resistor - Surface Mount ROHS
+Copy
+EasyEDA Libraries
+PCB Footprint or Symbol
+Datasheet
+Download
+Source
+JLCPCB
+Assembly Type
+SMT Assembly
+PCBA Type
+Economic and Standard
+Note: The purchased components are stored in your JLCPCB parts library for future PCBA orders only, and cannot be shipped separately.
+People are selling their idle parts:
+Note: The idle parts need to be purchased before they can be used for PCBA ordering
+0402WGF2001TCE
+	
+18***4A
+	
+1+ $0.0008
+1000+ $0.0008
+	
+10000
+	
+	
+0402WGF2001TCE
+	
+35***0G
+	
+1+ $0.0006
+1000+ $0.0006
+	
+9750
+	
+	
+0402WGF2001TCE
+	
+72***9R
+	
+1+ $0.0003
+1000+ $0.0003
+	
+9400
+	
+	
+0402WGF2001TCE
+	
+40***9A
+	
+1+ $0.0003
+1000+ $0.0003
+	
+9364
+	
+	
+0402WGF2001TCE
+	
+823**27A
+	
+1+ $0.0004
+1000+ $0.0004
+	
+9000
+	
+	
+0402WGF2001TCE
+	
+890**79A
+	
+1+ $0.0004
+1000+ $0.0004
+	
+9000
+	
+	
+0402WGF2001TCE
+	
+50***5G
+	
+1+ $0.0004
+1000+ $0.0004
+	
+8600
+	
+	
+0402WGF2001TCE
+	
+710**42A
+	
+1+ $0.0004
+1000+ $0.0004
+	
+8000
+	
+	
+0402WGF2001TCE
+	
+47***1A
+	
+1+ $0.0003
+1000+ $0.0003
+	
+7590
+	
+	
+0402WGF2001TCE
+	
+75***6A
+	
+1+ $0.0004
+1000+ $0.0004
+	
+1500
+	
+	
+0402WGF2001TCE
+	
+89***5A
+	
+1+ $0.0006
+1000+ $0.0006
+	
+60
+	
+	
+0402WGF2001TCE
+	
+84***7S
+	
+1+ $0.0008
+	
+30
+	
+	
+0402WGF2001TCE
+	
+33**1G
+	
+1+ $0.0009
+	
+20
+	
+	
+0402WGF2001TCE
+	
+925**80A
+	
+1+ $0.0127
+	
+1
+	
+	
+Qty
+Unit Price
+1+ $0.0005
+1000+ $0.0004
+3000+ $0.0003
+	
+0402WGF1001TCE
+C11702
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+17101701
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF0000TCE
+C17168
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+3152465
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1000TCE
+C25076
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+5038952
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF100JTCE
+C25077
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 10Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+746182
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1200TCE
+C25079
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+631188
+	
+	
+1+ $0.0006
+10000+ $0.0004
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF2000TCE
+C25087
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1443988
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF2200TCE
+C25091
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 220Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1666292
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF220JTCE
+C25092
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±1% ±100ppm/℃ 22Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+6489767
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF3300TCE
+C25104
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 330Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1599276
+	
+	
+1+ $0.0006
+10000+ $0.0004
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF330JTCE
+C25105
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+4165417
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF4700TCE
+C25117
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 470Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1867113
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF499JTCE
+C25120
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 49.9Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1390036
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF5100TCE
+C25123
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 510Ω 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+213627
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1003TCE
+C25741
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 100kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+6196696
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1002TCE
+C25744
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+9628257
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1202TCE
+C25752
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 12kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+443204
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1502TCE
+C25756
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1606236
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF2003TCE
+C25764
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 200kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1491726
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF2002TCE
+C25765
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 20kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+3589401
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF2202TCE
+C25768
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 22kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+480421
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF3302TCE
+C25779
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 33kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+770380
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF4702TCE
+C25792
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 47kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1898485
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF5102TCE
+C25794
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 51kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1521007
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1501TCE
+C25867
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1.5kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1602714
+	
+	
+1+ $0.0006
+10000+ $0.0004
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01 
+
+0402WGF2201TCE
+C25879
+Basic 
+
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.2kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1540522
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF3301TCE
+C25890
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 3.3kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1665766
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF4701TCE
+C25900
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+5887208
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF5101TCE
+C25905
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+2476762
+	
+	
+1+ $0.0005
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01
+	
+0402WGF1004TCE
+C26083
+Basic
+	
+	
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1MΩ 0402 Chip Resistor - Surface Mount ROHS
+	
+	
+uni-royal(uniroyal elec)
+	
+	
+1667030
+	
+	
+1+ $0.0006
+10000+ $0.0003
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 10000
+Total: $0.01

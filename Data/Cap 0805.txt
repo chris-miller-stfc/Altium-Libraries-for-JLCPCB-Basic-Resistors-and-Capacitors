@@ -1,0 +1,877 @@
+
+CL21B103KBANNNC
+C1710
+Basic 
+
+50V 10nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+2250283
+	
+	
+1+ $0.0061
+4000+ $0.0037
+Hide
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+placeholder-image
+placeholder-image
+placeholder-image
+placeholder-image
+placeholder-image
+Add To List
+Part Info
+Attributes
+Manufacturer
+Samsung Electro-Mechanics
+Copy
+MFR.Part #
+CL21B103KBANNNC
+Copy
+JLCPCB Part #
+C1710
+Copy
+Package
+0805
+Copy
+Description
+50V 10nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Copy
+EasyEDA Libraries
+PCB Footprint or Symbol
+ECCN
+EAR99
+Datasheet
+Download
+Source
+JLCPCB
+Assembly Type
+SMT Assembly
+PCBA Type
+Economic and Standard
+MSL Level
+MSL 1
+Note: The purchased components are stored in your JLCPCB parts library for future PCBA orders only, and cannot be shipped separately.
+People are selling their idle parts:
+Note: The idle parts need to be purchased before they can be used for PCBA ordering
+CL21B103KBANNNC
+	
+13**3G
+	
+1+ $0.0042
+200+ $0.0031
+	
+13280
+	
+	
+CL21B103KBANNNC
+	
+29**2G
+	
+1+ $0.0061
+200+ $0.0061
+	
+3480
+	
+	
+CL21B103KBANNNC
+	
+17**7Y
+	
+1+ $0.0044
+200+ $0.0044
+	
+2815
+	
+	
+CL21B103KBANNNC
+	
+10***8S
+	
+1+ $0.0061
+200+ $0.0061
+	
+2000
+	
+	
+CL21B103KBANNNC
+	
+526**59A
+	
+1+ $0.0063
+200+ $0.0063
+	
+1260
+	
+	
+CL21B103KBANNNC
+	
+52***3M
+	
+1+ $0.0089
+200+ $0.0089
+	
+200
+	
+	
+CL21B103KBANNNC
+	
+87***2A
+	
+1+ $0.0077
+	
+130
+	
+	
+CL21B103KBANNNC
+	
+890**28A
+	
+1+ $0.0055
+	
+100
+	
+	
+CL21B103KBANNNC
+	
+39***0A
+	
+1+ $0.0089
+	
+50
+	
+	
+CL21B103KBANNNC
+	
+316**57A
+	
+1+ $0.0097
+	
+40
+	
+	
+CL21B103KBANNNC
+	
+738**59A
+	
+1+ $0.0079
+	
+35
+	
+	
+CL21B103KBANNNC
+	
+826**12A
+	
+1+ $0.0083
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+750**90A
+	
+1+ $0.0083
+200+ $0.0083
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+686**84A
+	
+1+ $0.0064
+200+ $0.0064
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+705**95A
+	
+1+ $0.0062
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+72***1S
+	
+1+ $0.0090
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+88***6A
+	
+1+ $0.0074
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+82***2A
+	
+1+ $0.0090
+	
+20
+	
+	
+CL21B103KBANNNC
+	
+792**81A
+	
+1+ $0.0079
+	
+16
+	
+	
+CL21B103KBANNNC
+	
+333**66A
+	
+1+ $0.0085
+	
+6
+	
+	
+Qty
+Unit Price
+1+ $0.0061
+500+ $0.0048
+1500+ $0.0042
+4000+ $0.0037
+24000+ $0.0035
+48000+ $0.0034
+	
+CL21B223KBANNNC
+C1729
+Basic
+	
+	
+50V 22nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+86529
+	
+	
+1+ $0.0077
+4000+ $0.0053
+Show More
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+0805B333K500NT
+C1739
+Basic
+	
+	
+50V 33nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+94401
+	
+	
+1+ $0.0073
+4000+ $0.0047
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+0805B471K500NT
+C1743
+Basic
+	
+	
+50V 470pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+352542
+	
+	
+1+ $0.0045
+4000+ $0.0030
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+0805B472K500NT
+C1744
+Basic
+	
+	
+50V 4.7nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Fh (guangdong Fenghua Advanced tech)
+	
+	
+168042
+	
+	
+1+ $0.0047
+4000+ $0.0030
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CL21A475KAQNNNE
+C1779
+Basic
+	
+	
+25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+3051670
+	
+	
+1+ $0.0115
+2000+ $0.0065
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.02
+	
+CL21C101JBANNNC
+C1790
+Basic
+	
+	
+50V 100pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+915763
+	
+	
+1+ $0.0081
+4000+ $0.0047
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CL21C200JBANNNC
+C1798
+Basic
+	
+	
+50V 20pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+302105
+	
+	
+1+ $0.0142
+4000+ $0.0087
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.02
+	
+CL21C220JBANNNC
+C1804
+Basic
+	
+	
+50V 22pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+358152
+	
+	
+1+ $0.0094
+4000+ $0.0053
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CL21B224KBFNNNE
+C5378
+Basic
+	
+	
+50V 220nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+617387
+	
+	
+1+ $0.0107
+2000+ $0.0074
+Show More
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.02
+	
+CL21B474KBFNNNE
+C13967
+Basic
+	
+	
+50V 470nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+244392
+	
+	
+1+ $0.0128
+2000+ $0.0075
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.02
+	
+CL21C470JBANNNC
+C14857
+Basic
+	
+	
+50V 47pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+319921
+	
+	
+1+ $0.0111
+4000+ $0.0068
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.02
+	
+CL21A106KAYNNNE
+C15850
+Basic
+	
+	
+25V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+8927609
+	
+	
+1+ $0.0106
+2000+ $0.0065
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.02
+	
+CL21A476MQYNNNE
+C16780
+Basic
+	
+	
+6.3V 47uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+1811822
+	
+	
+1+ $0.0300
+2000+ $0.0186
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.03
+	
+CL21B104KCFNNNE
+C28233
+Basic
+	
+	
+100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+1506588
+	
+	
+1+ $0.0061
+2000+ $0.0048
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.01
+	
+CL21C222JBFNNNE
+C28260
+Basic
+	
+	
+50V 2.2nF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+258974
+	
+	
+1+ $0.0312
+2000+ $0.0182
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.04
+	
+CL21B105KBFNNNE
+C28323
+Basic
+	
+	
+50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+4525440
+	
+	
+1+ $0.0093
+2000+ $0.0063
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.01
+	
+CL21A226MAQNNNE
+C45783
+Basic
+	
+	
+25V 22uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+1406904
+	
+	
+1+ $0.0237
+2000+ $0.0144
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.03
+	
+CL21B102KBCNNNC
+C46653
+Basic
+	
+	
+50V 1nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+765946
+	
+	
+1+ $0.0077
+4000+ $0.0045
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CC0805KRX7R9BB104
+C49678
+Basic
+	
+	
+50V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Yageo
+	
+	
+6585209
+	
+	
+1+ $0.0045
+4000+ $0.0029
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CL21B473KBCNNNC
+C53134
+Basic
+	
+	
+50V 47nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+31452
+	
+	
+1+ $0.0118
+4000+ $0.0072
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.02
+	
+CC0805KRX7R9BB221
+C107145
+Basic
+	
+	
+50V 220pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Yageo
+	
+	
+132418
+	
+	
+1+ $0.0048
+4000+ $0.0031
+Show More
+	
+	
+
+Min: 1
+
+Full Reel: 4000
+Total: $0.01
+	
+CL21A225KBQNNNE
+C377773
+Basic
+	
+	
+50V 2.2uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Samsung electro-mechanics
+	
+	
+147239
+	
+	
+1+ $0.0153
+2000+ $0.0090
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 2000
+Total: $0.02
+	
+GRM21BR61H106KE43L
+C440198
+Basic
+	
+	
+50V 10uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+	
+Murata Electronics
+	
+	
+1114158
+	
+	
+1+ $0.0690
+3000+ $0.0401
+Show More
+
+Idle parts available
+	
+	
+
+Min: 1
+
+Full Reel: 3000
+Total: $0.07 
